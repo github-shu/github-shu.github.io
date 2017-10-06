@@ -26,16 +26,17 @@ id | name | age
 > 成功路上并不拥挤，因为能坚持到最后的人不多。
 
 github
+
     gitHub是一个面向开源及私有软件项目的托管平台，因为只支持git 作为唯一的版本库格式进行托管，故名gitHub。
 
 
-`java`的Hello World:
+`java` - Hello World:
 ``` java
-    public class HelloWorld {
-        public static void main(String[] args) {
-            System.out.println("Hello World!");
-        }
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
     }
+}
 ```
 
 
